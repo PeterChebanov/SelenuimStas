@@ -1,5 +1,0 @@
-[15452:259:0503/205754.534460:WARNING:chrome_main_delegate.cc(750)] This is Chrome version 124.0.6367.119 (not a warning)
-[15452:259:0503/205754.708460:INFO:chrome_browser_cloud_management_controller.cc(168)] Starting CBCM Controller Initialization
-[15452:259:0503/205754.708491:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
-[15452:259:0503/205754.734433:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
-[15452:259:0503/205756.177791:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
